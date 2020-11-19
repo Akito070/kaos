@@ -1,0 +1,9 @@
+.fade {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  padding:80px 0px 0px 0px;
+  height: auto;
+}
+.fade img{
+  width: 100%;
+}
